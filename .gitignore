@@ -9,6 +9,7 @@ gce_googlecompute.pem
 .DS_Store
 gce-creds.tar.gz
 credentials
+**/.env
 *.key
 *.cert
 *.crt
